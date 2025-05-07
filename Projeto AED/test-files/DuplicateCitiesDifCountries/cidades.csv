@@ -1,0 +1,11 @@
+alfa2,cidade,regiao,populacao,latitude,longitude
+ao,cidade1,01,1000,0.1,0.1
+pt,cidade1,01,1000,0.1,0.1
+pt,cidade2,01,2000,0.1,0.1
+pt,cidade2,02,3000,0.1,0.1
+cv,cidade2,01,3000,0.1,0.1
+ao,cidade3,01,3000,0.1,0.1
+pt,cidade3,01,3001,0.1,0.1
+pt,cidade3,02,3001,0.1,0.1
+cv,cidade3,01,3002,0.1,0.1
+br,cidade3,01,3003,0.1,0.1
